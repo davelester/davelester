@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm an open source technologist living in the Bay Area, currently fascinated by software package managers and software supply chains. I've previously worked at Google, Apple, and Twitter, and received a master's degree from the UC Berkeley School for Information.
+
+The heart of my professional work has been leading open source initiatives and growing developer communities.
+
+🐘 Mastodon: davelester@fosstodon.org
+🧵 Threads: itsdavelester
+
 <!--
 **davelester/davelester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -4,8 +4,8 @@ I'm an open source technologist living in the Bay Area, currently fascinated by 
 
 The heart of my professional work has been leading open source initiatives and growing developer communities.
 
-🐘 Mastodon: davelester@fosstodon.org
-🧵 Threads: itsdavelester
+- 🐘 Mastodon: [@davelester@fosstodon.org](https://www.fosstodon.org/@davelester)
+- 🧵 Threads: [@itsdavelester](https://www.threads.net/@itsdavelester)
 
 <!--
 **davelester/davelester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

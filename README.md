@@ -4,6 +4,7 @@ I'm an open source technologist living in the Bay Area, currently fascinated by 
 
 The heart of my professional work has been leading open source initiatives and growing developer communities.
 
+- 🦋 Bluesky: [@davelester.org](https://bsky.app/profile/davelester.org)
 - 🐘 Mastodon: [@davelester@fosstodon.org](https://www.fosstodon.org/@davelester)
 - 🧵 Threads: [@itsdavelester](https://www.threads.net/@itsdavelester)
 
